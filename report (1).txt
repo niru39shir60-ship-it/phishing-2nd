@@ -1,0 +1,33 @@
+Phishing Email Analysis Report
+
+Objective:
+Identify phishing characteristics in a suspicious email sample.
+
+Key Findings:
+1. Suspicious Sender:
+   - Email: deepak.b@launchedglobal.in
+   - Domain appears legitimate but is unverified.
+   - Generic sender name used; lacks clear organizational branding.
+
+2. Header Red Flags:
+   - Bcc field indicates mass mailing—common phishing trait.
+   - No DKIM/DMARC authentication present.
+   - Unverified sender details.
+
+3. Suspicious Link:
+   - Google Forms link used: https://forms.gle/FnzBYZfKVWLVx8v3A
+   - Potential phishing data collection method.
+
+4. Urgent Language:
+   - Subject and body include urgency: "shortlisted", "last date to apply".
+   - Common psychological tactic in phishing attacks.
+
+5. Formatting and Grammar Issues:
+   - Lacks personalization: uses "DEAR STUDENT".
+   - Repetitive phrases and poor subject line formatting.
+
+Conclusion:
+The email contains multiple signs of phishing. It is advised not to interact with the links or share any personal information. Users should report and delete such messages.
+
+Report by: Pradnya Manohar Shirsath
+Date: 05/08/2025

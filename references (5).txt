@@ -1,0 +1,6 @@
+# References and Tools Used
+
+- Free Email Header Analyzers (MxToolbox, Google Admin Toolbox)
+- Google Forms URL validation practices
+- Common Phishing Indicators (from cybersecurity awareness sources like CISA, Norton, and Microsoft)
+- TLS and Email Authentication Standards (DKIM, SPF, DMARC)
